@@ -1,4 +1,4 @@
-# Hi, I'm Sarath Mukundan 👋
+# Hi, I'm Sarath Mukundan Adavakkat 👋
 
 I’m a Data Analyst and recent MSc Computing graduate specializing in Data Analytics from Dublin City University (DCU).  
 I love turning complex data into actionable insights through analytical rigor and innovative solutions.
@@ -14,11 +14,9 @@ I love turning complex data into actionable insights through analytical rigor an
 
 ---
 
-## 💻 Technical Skills
+## 💻 Tech Stack
 
-| Programming       | Libraries & Frameworks             | Databases & Visualization | Tools & Platforms                  |
-|-------------------|----------------------------------|---------------------------|----------------------------------|
-| Python, SQL       | Pandas, NumPy, Scikit-Learn, TF | MySQL, Tableau, Power BI  | Jupyter, VS Code, GCP, Git       |
+Python | MySQL | Power BI | Microsoft Excel | Postgres | MongoDB | AWS | Google Cloud | Linux | Amazon DynamoDB | Firebase | Flask | Vercel | ChatGPT
 
 ---
 
@@ -38,9 +36,11 @@ I love turning complex data into actionable insights through analytical rigor an
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarath1102&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarath1102&layout=compact&theme=radical)
 
 ---
 
@@ -53,11 +53,6 @@ I love turning complex data into actionable insights through analytical rigor an
 ---
 
 Thanks for visiting my profile! Feel free to connect or check out my projects. 😊
-
-
-
-
-
 
 
 
