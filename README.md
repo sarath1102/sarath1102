@@ -21,7 +21,7 @@ I am a detail-oriented Data Analyst with a Master’s degree in Computing specia
 
 ---
 
-## Selected Projects
+## Projects
 
 - **[Nutritional Deficiency Classification in Coffee Leaves](https://github.com/sarath1102/coffee-leaf-deficiency)**  
   Developed a transfer learning model leveraging ResNet50 and MobileNetV2, achieving 96.1% accuracy in classification of nutrient deficiencies.
