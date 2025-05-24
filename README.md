@@ -6,7 +6,7 @@ Master’s in Computing with Major Options, specializing in Data Analytics, Grad
 
 ## About Me
 
-I am a detail-oriented Data Analyst with a Master’s degree in Computing specializing in Data Analytics from Dublin City University. Experienced in applying analytical and technical skills to extract meaningful insights from complex datasets. Proven ability to develop data-driven solutions, build dashboards, and communicate results effectively to stakeholders.
+I am a graduate with a passion for data analytics, software development. With strong programming skills in Python, Java, and SQL, I specialize in data processing, visualisation, and machine learning using Pandas, NumPy, Scikit-Learn, TensorFlow, Tableau, and Power BI.
 
 ---
 
