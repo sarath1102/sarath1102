@@ -1,6 +1,6 @@
-# Sarath Mukundan
+# Sarath Mukundan Adavakkat
 
-Data Analyst | MSc Computing (Data Analytics) Graduate | Dublin, Ireland
+Master’s in Computing with Major Options, specializing in Data Analytics, Graduate | Dublin, Ireland
 
 ---
 
@@ -12,12 +12,12 @@ I am a detail-oriented Data Analyst with a Master’s degree in Computing specia
 
 ## Technical Skills
 
-**Programming & Tools:** Python | SQL | Flask | Jupyter Notebook | VS Code | Git  
-**Databases:** MySQL | PostgreSQL | MongoDB | Amazon DynamoDB | Firebase  
+**Programming & Tools:** Python | SQL | Java| Jupyter Notebook | VS Code | Git  
+**Databases:** MySQL 
 **Data Visualization:** Tableau | Power BI | Microsoft Excel  
-**Cloud Platforms:** AWS | Google Cloud Platform | Vercel  
-**Operating Systems:** Linux  
-**Others:** Machine Learning (Scikit-Learn, TensorFlow), Data Processing (PySpark), ChatGPT
+**Cloud Platforms:** AWS | Google Cloud Platform
+**Operating Systems:** Linux, Windows  
+**Others:** Machine Learning (Scikit-Learn, TensorFlow), Data Processing (PySpark)
 
 ---
 
