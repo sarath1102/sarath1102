@@ -6,7 +6,7 @@ Master’s in Computing with Major Options, specializing in Data Analytics, Grad
 
 ## About Me
 
-I am a graduate with a passion for data analytics, software development. With strong programming skills in Python, Java, and SQL, I specialize in data processing, visualisation, and machine learning using Pandas, NumPy, Scikit-Learn, TensorFlow, Tableau, and Power BI.
+I am a graduate with a passion for data analytics, software development. With strong programming skills in Python, and SQL, I specialize in data processing, visualisation, and machine learning using Pandas, NumPy, Scikit-Learn, TensorFlow, Tableau, and Power BI.
 
 ---
 
