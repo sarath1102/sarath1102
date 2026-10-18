@@ -72,7 +72,7 @@ I'm interested in opportunities in **IT Support, Service Desk, Technical Support
 
 ## Technical Projects
 
-### ☕ Coffee Leaf Nutritional Deficiency Classification
+### Coffee Leaf Nutritional Deficiency Classification
 - Developed deep learning models using ResNet50 and MobileNetV2.
 - Achieved **96.1% classification accuracy**.
 - Research presented at **CIARP 2025, Bogotá, Colombia**.
