@@ -73,22 +73,44 @@ I'm interested in opportunities in **IT Support, Technical Support, Application 
 ## Technical Projects
 
 ### Automatic Classification of Nutritional Deficiencies in Coffee Leaves Images Using Transfer Learning
-- Developed deep learning models using ResNet50 and MobileNetV2.
-- Achieved **96.1% classification accuracy**.
-- Research presented at **CIARP 2025, Bogotá, Colombia**.
+
+Developed a deep learning-based image classification system to automatically identify nutritional deficiencies in coffee leaves, supporting early detection and improved crop health monitoring.
+
+Implemented transfer learning techniques using **ResNet50 and MobileNetV2** to classify coffee leaf images based on nutritional deficiency patterns and evaluate model performance.
+
+Achieved **96.1% classification accuracy**, demonstrating the effectiveness of transfer learning for identifying nutritional deficiencies in coffee leaves.
+
+The research was presented at **CIARP 2025 in Bogotá, Colombia**.
+
+---
 
 ### Traffic Accident Severity Prediction
-- Built classification models using Random Forest and XGBoost.
-- Applied SMOTE for class balancing.
-- Achieved **73% accuracy**.
+
+Developed a machine learning model to predict traffic accident severity using historical accident data and identify patterns associated with road safety.
+
+Preprocessed the dataset, addressed class imbalance using **SMOTE**, and trained classification models using **Random Forest and XGBoost** with Python and Scikit-learn.
+
+Achieved **73% prediction accuracy**, demonstrating the effectiveness of machine learning for accident severity classification.
+
+---
 
 ### Loan Defaulter Demographic Visualisation
-- Processed datasets using PySpark and AWS EMR.
-- Built interactive Tableau dashboards to identify demographic trends.
+
+Analysed loan default patterns across demographic groups to identify trends and provide meaningful financial insights.
+
+Cleaned and processed large-scale datasets using **Python, PySpark and AWS EMR**, and developed interactive **Tableau dashboards** to explore demographic factors associated with loan defaults.
+
+Created visual dashboards that simplified complex datasets and highlighted demographic patterns, supporting data-driven analysis.
+
+---
 
 ### Etsy Product Categorisation
-- Applied Naive Bayes and Logistic Regression.
-- Achieved an **F1-score of 0.731**.
+
+Developed a machine learning solution to automatically categorise Etsy products, improving product organisation and classification efficiency.
+
+Processed product data and implemented **Naive Bayes and Logistic Regression** classification models using Python and Scikit-learn to evaluate categorisation performance.
+
+Achieved an **F1-score of 0.731**, demonstrating effective automated product classification.
 
 ---
 
