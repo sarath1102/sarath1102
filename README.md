@@ -5,14 +5,14 @@
 
  
  Dublin, Ireland · Open to relocation  
- MSc Computing (Data Analytics), Dublin City University  
+ MSc in Computing with Major Options (Data Analytics), Dublin City University  
  CompTIA A+ Certified
 
 I'm an IT Support professional with experience in **L1/L2 technical support, application troubleshooting, incident management, end-user assistance and service operations**.
 
-My background combines technical and customer-facing support across **Teleperformance (Client: Meta)**, **Covalen Solutions (Client: Allied Irish Bank)** and **Allmax'd**, along with a foundation in computer science, SQL, Python and analytics.
+My background combines technical and customer-facing support across **Teleperformance (Client: Meta)**, **Covalen Solutions (Client: Allied Irish Bank)** and **Allmax'd**, along with a foundation in Computer Science, SQL, Python and analytics.
 
-I'm interested in opportunities in **IT Support, Service Desk, Technical Support and Application Support**.
+I'm interested in opportunities in **IT Support, Technical Support, Application Support and Service Desk roles**.
 
 ---
 
@@ -22,10 +22,10 @@ I'm interested in opportunities in **IT Support, Service Desk, Technical Support
 | --- | --- |
 | **IT Support & ITSM** | L1/L2 Support, Incident Management, Ticket Handling, Escalation, SLA Management, Root Cause Analysis |
 | **End-User Support** | Windows, Microsoft 365, Hardware/Software Troubleshooting, Printers, VPN, Connectivity |
-| **Identity & Endpoints** | Active Directory Fundamentals, Microsoft Entra ID Fundamentals, Microsoft Intune |
+| **Identity & Endpoints** | Active Directory, Microsoft Entra ID, Microsoft Intune |
 | **Networking** | TCP/IP, DNS, DHCP, Wi-Fi, LAN, VPN Troubleshooting |
 | **Monitoring & Analysis** | AWS CloudWatch, Application Monitoring, Log Analysis, SQL, Python |
-| **Service Delivery** | Technical Documentation, Knowledge Sharing, Customer Support, Data Protection |
+| **Service Delivery** | Technical Documentation, Knowledge Sharing, Customer Support, Data Protection, GDPR |
 | **Data & Development** | PySpark, Tableau, Power BI, Machine Learning, Data Visualisation |
 
 ---
@@ -37,10 +37,10 @@ I'm interested in opportunities in **IT Support, Service Desk, Technical Support
 
 - Provide L1/L2 technical and application support through structured troubleshooting.
 - Triage incidents, document resolutions and coordinate escalations.
-- Maintain a **98% quality score** in a high-volume environment.
+- Maintaining a **98% quality score** in a high-volume environment.
 - Communicate technical issues to technical and non-technical stakeholders.
 
-### Operations Specialist — Covalen Solutions (Client: AIB)
+### Operations Specialist — Covalen Solutions (Client: Allied Irish Bank)
 **September 2025 – June 2026 | Ireland**
 
 - Supported customers with phone and internet banking issues.
@@ -72,7 +72,7 @@ I'm interested in opportunities in **IT Support, Service Desk, Technical Support
 
 ## Technical Projects
 
-### Coffee Leaf Nutritional Deficiency Classification
+### Automatic Classification of Nutritional Deficiencies in Coffee Leaves Images Using Transfer Learning
 - Developed deep learning models using ResNet50 and MobileNetV2.
 - Achieved **96.1% classification accuracy**.
 - Research presented at **CIARP 2025, Bogotá, Colombia**.
@@ -94,7 +94,7 @@ I'm interested in opportunities in **IT Support, Service Desk, Technical Support
 
 ## Education & Certifications
 
-**MSc in Computing (Data Analytics)**  
+**MSc in Computing with Major Options (Data Analytics)**  
 Dublin City University, Ireland | 2023–2024  
 Grade: 2.1 Honours
 
@@ -103,9 +103,6 @@ Ahalia School of Engineering and Technology, India | 2018–2022
 Grade: 2.1 Honours
 
 **CompTIA A+ Certified**
-
-**Research Presentation:**  
-Automatic Classification of Nutritional Deficiencies in Coffee Leaves using Transfer Learning — CIARP 2025.
 
 ---
 
