@@ -1,82 +1,123 @@
-# Sarath Mukundan Adavakkat
 
-Master’s in Computing with Major Options, specializing in Data Analytics, Graduate | Dublin, Ireland
+## Sarath Mukundan Adavakkat 
 
----
+### IT Support | Service Desk | Application Support
 
-## About Me
+ 
+ Dublin, Ireland · Open to relocation  
+ MSc Computing (Data Analytics), Dublin City University  
+ CompTIA A+ Certified
 
-I am a graduate with a passion for data analytics, software development. With strong programming skills in Python, and SQL, I specialize in data processing, visualisation, and machine learning using Pandas, NumPy, Scikit-Learn, TensorFlow, Tableau, and Power BI.
+I'm an IT Support professional with experience in **L1/L2 technical support, application troubleshooting, incident management, end-user assistance and service operations**.
+
+My background combines technical and customer-facing support across **Teleperformance (Client: Meta)**, **Covalen Solutions (Client: Allied Irish Bank)** and **Allmax'd**, along with a foundation in computer science, SQL, Python and analytics.
+
+I'm interested in opportunities in **IT Support, Service Desk, Technical Support and Application Support**.
 
 ---
 
 ## Technical Skills
 
-**Programming & Tools:** Python | SQL | Java| Jupyter Notebook | VS Code | Git  
-**Databases:** MySQL 
-**Data Visualization:** Tableau | Power BI | Microsoft Excel  
-**Cloud Platforms:** AWS | Google Cloud Platform
-**Operating Systems:** Linux, Windows  
-**Others:** Machine Learning (Scikit-Learn, TensorFlow), Data Processing (PySpark)
+| Area | Skills and Tools |
+| --- | --- |
+| **IT Support & ITSM** | L1/L2 Support, Incident Management, Ticket Handling, Escalation, SLA Management, Root Cause Analysis |
+| **End-User Support** | Windows, Microsoft 365, Hardware/Software Troubleshooting, Printers, VPN, Connectivity |
+| **Identity & Endpoints** | Active Directory Fundamentals, Microsoft Entra ID Fundamentals, Microsoft Intune |
+| **Networking** | TCP/IP, DNS, DHCP, Wi-Fi, LAN, VPN Troubleshooting |
+| **Monitoring & Analysis** | AWS CloudWatch, Application Monitoring, Log Analysis, SQL, Python |
+| **Service Delivery** | Technical Documentation, Knowledge Sharing, Customer Support, Data Protection |
+| **Data & Development** | PySpark, Tableau, Power BI, Machine Learning, Data Visualisation |
 
 ---
 
-## Projects
+## Professional Experience
 
-- **[Nutritional Deficiency Classification in Coffee Leaves](https://github.com/sarath1102/coffee-leaf-deficiency)**  
-  Developed a transfer learning model leveraging ResNet50 and MobileNetV2, achieving 96.1% accuracy in classification of nutrient deficiencies.
+### Technical Support Analyst — Teleperformance (Client: Meta)
+**June 2026 – Present | Dublin, Ireland**
 
-- **[Etsy Product Categorization](https://github.com/sarath1102/etsy-product-categorization)**  
-  Built a classification model using Naive Bayes and Logistic Regression to improve product categorization with an F1-score of 0.731.
+- Provide L1/L2 technical and application support through structured troubleshooting.
+- Triage incidents, document resolutions and coordinate escalations.
+- Maintain a **98% quality score** in a high-volume environment.
+- Communicate technical issues to technical and non-technical stakeholders.
 
-- **[Traffic Accident Severity Prediction](https://github.com/sarath1102/traffic-accident-analysis)**  
-  Applied Random Forest and XGBoost classifiers with SMOTE for data balancing, achieving 73% accuracy on a large-scale dataset.
+### Operations Specialist — Covalen Solutions (Client: AIB)
+**September 2025 – June 2026 | Ireland**
 
-- **[Loan Defaulters Demographic Visualization](https://github.com/sarath1102/loan-defaulters-visualizer)**  
-  Processed large datasets using PySpark and AWS EMR; developed interactive Tableau dashboards highlighting key demographic trends.
+- Supported customers with phone and internet banking issues.
+- Investigated account access and digital service queries using internal systems.
+- Maintained accurate case records and followed security procedures.
+- Escalated complex issues and provided guidance to colleagues.
+
+### Application Support Specialist — Allmax'd
+**January 2025 – June 2025 | India**
+
+- Investigated application issues using system logs and AWS CloudWatch.
+- Achieved **85%+ first-contact resolution**.
+- Coordinated technical escalations and documented troubleshooting procedures.
+
+### Business Analyst — Qbay Payroll
+**January 2023 – August 2023 | India**
+
+- Supported requirements analysis, UAT and process documentation.
+- Reduced **rework by 20%** through process improvements.
+- Contributed to a **30% reduction in support tickets**.
+
+### Sales Assistant — Applegreen
+**September 2023 – January 2025 | Ireland**
+
+- Delivered customer support in a high-volume environment.
+- Supported POS operations, inventory checks and onboarding of colleagues.
 
 ---
 
-## GitHub Statistics
+## Technical Projects
 
-![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarath1102&show_icons=true&theme=neutral)
+### ☕ Coffee Leaf Nutritional Deficiency Classification
+- Developed deep learning models using ResNet50 and MobileNetV2.
+- Achieved **96.1% classification accuracy**.
+- Research presented at **CIARP 2025, Bogotá, Colombia**.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarath1102&layout=compact&theme=neutral)
+### Traffic Accident Severity Prediction
+- Built classification models using Random Forest and XGBoost.
+- Applied SMOTE for class balancing.
+- Achieved **73% accuracy**.
+
+### Loan Defaulter Demographic Visualisation
+- Processed datasets using PySpark and AWS EMR.
+- Built interactive Tableau dashboards to identify demographic trends.
+
+### Etsy Product Categorisation
+- Applied Naive Bayes and Logistic Regression.
+- Achieved an **F1-score of 0.731**.
 
 ---
 
-## Contact
+## Education & Certifications
 
-- Email: sarathmukundan02@gmail.com  
-- LinkedIn: [linkedin.com/in/sarath-mukundan](https://linkedin.com/in/sarath-mukundan)  
-- GitHub: [github.com/sarath1102](https://github.com/sarath1102)
+**MSc in Computing (Data Analytics)**  
+Dublin City University, Ireland | 2023–2024  
+Grade: 2.1 Honours
+
+**BTech in Computer Science and Engineering**  
+Ahalia School of Engineering and Technology, India | 2018–2022  
+Grade: 2.1 Honours
+
+**CompTIA A+ Certified**
+
+**Research Presentation:**  
+Automatic Classification of Nutritional Deficiencies in Coffee Leaves using Transfer Learning — CIARP 2025.
 
 ---
 
-Thank you for visiting my profile.
 
+## Let's Connect
 
+📧 **Email:** [sarathmukundan02@gmail.com](mailto:sarathmukundan02@gmail.com)
 
+💼 **LinkedIn:** [linkedin.com/in/sarath-mukundan](https://linkedin.com/in/sarath-mukundan)
 
+💻 **GitHub:** [github.com/sarath1102](https://github.com/sarath1102)
 
+---
 
-
-
-
-
-
-
-<!--
-**sarath1102/sarath1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Thanks for visiting my profile!*
