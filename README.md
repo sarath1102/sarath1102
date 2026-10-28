@@ -72,7 +72,7 @@ I'm interested in opportunities in **IT Support, Technical Support, Application 
 
 ## Technical Projects
 
-### Automatic Classification of Nutritional Deficiencies in Coffee Leaves Images Using Transfer Learning
+### Classifying Nutritional Deficiencies in Coffee Leaves with Transfer Learning
 
 Developed a deep learning-based image classification system to automatically identify nutritional deficiencies in coffee leaves, supporting early detection and improved crop health monitoring.
 
